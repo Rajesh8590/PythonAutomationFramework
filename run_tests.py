@@ -3,6 +3,10 @@ import subprocess
 import sys
 from datetime import datetime
 
+import os
+
+print("JAVA_HOME =", os.environ.get("JAVA_HOME"))
+print("PATH =", os.environ.get("PATH"))
 parser = argparse.ArgumentParser()
 parser.add_argument("--suite", default="smoke")
 args = parser.parse_args()
