@@ -1,0 +1,10 @@
+{
+  "data" : [
+    {
+  "browser": "chrome",
+  "url": "https://rahulshettyacademy.com/loginpagePractise/",
+  "timeout": 10
+    }
+            ]
+
+}
