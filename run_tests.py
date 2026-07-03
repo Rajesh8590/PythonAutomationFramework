@@ -1,11 +1,10 @@
 import argparse
 import subprocess
+import sys
 from datetime import datetime
 
 parser = argparse.ArgumentParser()
-
 parser.add_argument("--suite", default="smoke")
-
 args = parser.parse_args()
 
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -15,15 +14,17 @@ report = f"reports/{args.suite}_{timestamp}/allure-report"
 
 ALLURE = r"C:\Program Files\allure-2.44.0\bin\allure.bat"
 
-# STEP 1 - Run pytest
+# Run pytest
 subprocess.run([
+    sys.executable,
+    "-m",
     "pytest",
     "-m",
     args.suite,
     "--alluredir=" + results
 ], check=True)
 
-# STEP 2 - Generate Allure Report
+# Generate report
 subprocess.run([
     ALLURE,
     "generate",
@@ -33,7 +34,7 @@ subprocess.run([
     "--clean"
 ], check=True)
 
-# STEP 3 - Open Report
+# Open report
 subprocess.run([
     ALLURE,
     "open",
