@@ -39,8 +39,8 @@ subprocess.run([
 ], check=True)
 
 # Open report
-subprocess.run([
+'''subprocess.run([
     ALLURE,
     "open",
     report
-], check=True)
+], check=True)'''
