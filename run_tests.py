@@ -20,7 +20,7 @@ ALLURE = r"C:\Program Files\allure-2.44.0\bin\allure.bat"
 
 # Run pytest
 subprocess.run([
-    sys.executable,
+    sys.executable,  
     "-m",
     "pytest",
     "-m",
@@ -38,8 +38,8 @@ subprocess.run([
     "--clean"
 ], check=True)
 
-# Open report
-'''subprocess.run([
+''' Open report
+subprocess.run([
     ALLURE,
     "open",
     report

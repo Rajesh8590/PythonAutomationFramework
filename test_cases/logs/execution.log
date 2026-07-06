@@ -1,0 +1,264 @@
+2026-07-06 10:45:09,978 | INFO | ======================================================================
+2026-07-06 10:45:09,979 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:45:09,979 | INFO | ======================================================================
+2026-07-06 10:45:09,979 | INFO | ========== test_e2e[data0] Started ==========
+2026-07-06 10:45:09,979 | INFO | Launching chrome Browser
+2026-07-06 10:45:10,717 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:45:14,120 | INFO | Entering Username
+2026-07-06 10:45:14,220 | INFO | Entering Password
+2026-07-06 10:45:14,309 | INFO | Clicking on Login button
+2026-07-06 10:45:16,866 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:45:16,867 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:45:16,867 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:45:16,871 | INFO | ======================================================================
+2026-07-06 10:45:16,871 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:45:16,871 | INFO | ======================================================================
+2026-07-06 10:45:16,871 | INFO | ========== test_e2e[data1] Started ==========
+2026-07-06 10:45:16,871 | INFO | Launching chrome Browser
+2026-07-06 10:45:18,065 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:45:19,582 | INFO | Entering Username
+2026-07-06 10:45:19,685 | INFO | Entering Password
+2026-07-06 10:45:19,760 | INFO | Clicking on Login button
+2026-07-06 10:45:22,294 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:45:22,294 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:45:22,294 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:45:22,298 | INFO | ======================================================================
+2026-07-06 10:45:22,298 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:45:22,298 | INFO | ======================================================================
+2026-07-06 10:45:22,298 | INFO | ========== test_e2e[data0] Started ==========
+2026-07-06 10:45:22,298 | INFO | Launching chrome Browser
+2026-07-06 10:45:23,478 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:45:24,979 | INFO | Entering Username
+2026-07-06 10:45:25,074 | INFO | Entering Password
+2026-07-06 10:45:25,157 | INFO | Clicking on Login button
+2026-07-06 10:45:27,696 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:45:27,696 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:45:27,696 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:45:27,704 | INFO | ======================================================================
+2026-07-06 10:45:27,705 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:45:27,705 | INFO | ======================================================================
+2026-07-06 10:45:27,705 | INFO | ========== test_e2e[data1] Started ==========
+2026-07-06 10:45:27,705 | INFO | Launching chrome Browser
+2026-07-06 10:45:28,379 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:45:30,753 | INFO | Entering Username
+2026-07-06 10:45:30,842 | INFO | Entering Password
+2026-07-06 10:45:30,924 | INFO | Clicking on Login button
+2026-07-06 10:45:33,482 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:45:33,482 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:45:33,482 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:45:33,490 | INFO | ======================================================================
+2026-07-06 10:45:33,491 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:45:33,491 | INFO | ======================================================================
+2026-07-06 10:45:33,491 | INFO | ========== test_e2e[data0] Started ==========
+2026-07-06 10:45:33,491 | INFO | Launching chrome Browser
+2026-07-06 10:45:34,712 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:45:36,104 | INFO | Entering Username
+2026-07-06 10:45:36,194 | INFO | Entering Password
+2026-07-06 10:45:36,269 | INFO | Clicking on Login button
+2026-07-06 10:45:47,021 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:45:47,021 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:45:47,021 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:45:47,042 | INFO | ======================================================================
+2026-07-06 10:45:47,042 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:45:47,042 | INFO | ======================================================================
+2026-07-06 10:45:47,042 | INFO | ========== test_e2e[data1] Started ==========
+2026-07-06 10:45:47,042 | INFO | Launching chrome Browser
+2026-07-06 10:45:47,736 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:45:49,845 | INFO | Entering Username
+2026-07-06 10:45:49,931 | INFO | Entering Password
+2026-07-06 10:45:50,005 | INFO | Clicking on Login button
+2026-07-06 10:46:01,003 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:46:01,003 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:46:01,003 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:46:49,884 | INFO | ======================================================================
+2026-07-06 10:46:49,884 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:46:49,884 | INFO | ======================================================================
+2026-07-06 10:46:49,884 | INFO | ========== test_e2e[data0] Started ==========
+2026-07-06 10:46:49,884 | INFO | Launching chrome Browser
+2026-07-06 10:46:50,598 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:46:52,181 | INFO | Entering Username
+2026-07-06 10:46:52,275 | INFO | Entering Password
+2026-07-06 10:46:52,358 | INFO | Clicking on Login button
+2026-07-06 10:46:54,846 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:46:54,846 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:46:54,846 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:46:54,851 | INFO | ======================================================================
+2026-07-06 10:46:54,851 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:46:54,851 | INFO | ======================================================================
+2026-07-06 10:46:54,851 | INFO | ========== test_e2e[data1] Started ==========
+2026-07-06 10:46:54,852 | INFO | Launching chrome Browser
+2026-07-06 10:46:55,579 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:46:57,129 | INFO | Entering Username
+2026-07-06 10:46:57,219 | INFO | Entering Password
+2026-07-06 10:46:57,303 | INFO | Clicking on Login button
+2026-07-06 10:46:59,784 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:46:59,784 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:46:59,784 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:46:59,788 | INFO | ======================================================================
+2026-07-06 10:46:59,788 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:46:59,788 | INFO | ======================================================================
+2026-07-06 10:46:59,788 | INFO | ========== test_e2e[data0] Started ==========
+2026-07-06 10:46:59,788 | INFO | Launching chrome Browser
+2026-07-06 10:47:00,532 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:47:02,184 | INFO | Entering Username
+2026-07-06 10:47:02,282 | INFO | Entering Password
+2026-07-06 10:47:02,377 | INFO | Clicking on Login button
+2026-07-06 10:47:04,925 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:47:04,925 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:47:04,925 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:47:04,933 | INFO | ======================================================================
+2026-07-06 10:47:04,934 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:47:04,934 | INFO | ======================================================================
+2026-07-06 10:47:04,934 | INFO | ========== test_e2e[data1] Started ==========
+2026-07-06 10:47:04,934 | INFO | Launching chrome Browser
+2026-07-06 10:47:05,657 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:47:08,623 | INFO | Entering Username
+2026-07-06 10:47:08,713 | INFO | Entering Password
+2026-07-06 10:47:08,796 | INFO | Clicking on Login button
+2026-07-06 10:47:11,278 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:47:11,278 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:47:11,278 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:47:11,300 | INFO | ======================================================================
+2026-07-06 10:47:11,301 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:47:11,301 | INFO | ======================================================================
+2026-07-06 10:47:11,301 | INFO | ========== test_e2e[data0] Started ==========
+2026-07-06 10:47:11,301 | INFO | Launching chrome Browser
+2026-07-06 10:47:11,967 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:47:13,880 | INFO | Entering Username
+2026-07-06 10:47:13,972 | INFO | Entering Password
+2026-07-06 10:47:14,050 | INFO | Clicking on Login button
+2026-07-06 10:47:25,105 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:47:25,105 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:47:25,105 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:47:25,110 | INFO | ======================================================================
+2026-07-06 10:47:25,110 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:47:25,110 | INFO | ======================================================================
+2026-07-06 10:47:25,110 | INFO | ========== test_e2e[data1] Started ==========
+2026-07-06 10:47:25,110 | INFO | Launching chrome Browser
+2026-07-06 10:47:28,118 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:47:30,468 | INFO | Entering Username
+2026-07-06 10:47:30,557 | INFO | Entering Password
+2026-07-06 10:47:30,635 | INFO | Clicking on Login button
+2026-07-06 10:47:42,010 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:47:42,011 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:47:42,011 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:49:11,183 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:49:11,183 | INFO | ========== test_e2e Started ==========
+2026-07-06 10:49:11,183 | INFO | Launching chrome Browser
+2026-07-06 10:49:11,883 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:49:13,542 | INFO | Entering Username
+2026-07-06 10:49:13,634 | INFO | Entering Password
+2026-07-06 10:49:13,712 | INFO | Clicking on Login button
+2026-07-06 10:49:16,208 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:49:16,208 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:49:16,208 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:49:16,228 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:49:16,229 | INFO | ========== test_e2e Started ==========
+2026-07-06 10:49:16,229 | INFO | Launching chrome Browser
+2026-07-06 10:49:16,888 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:49:19,330 | INFO | Entering Username
+2026-07-06 10:49:19,422 | INFO | Entering Password
+2026-07-06 10:49:19,538 | INFO | Clicking on Login button
+2026-07-06 10:49:22,068 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:49:22,068 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:49:22,068 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:49:22,076 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:49:22,076 | INFO | ========== test_e2e Started ==========
+2026-07-06 10:49:22,076 | INFO | Launching chrome Browser
+2026-07-06 10:49:22,755 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:49:26,561 | INFO | Entering Username
+2026-07-06 10:49:26,650 | INFO | Entering Password
+2026-07-06 10:49:26,726 | INFO | Clicking on Login button
+2026-07-06 10:49:29,229 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:49:29,230 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:49:29,230 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:49:29,236 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:49:29,236 | INFO | ========== test_e2e Started ==========
+2026-07-06 10:49:29,236 | INFO | Launching chrome Browser
+2026-07-06 10:49:29,942 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:49:32,106 | INFO | Entering Username
+2026-07-06 10:49:32,196 | INFO | Entering Password
+2026-07-06 10:49:32,270 | INFO | Clicking on Login button
+2026-07-06 10:49:34,781 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:49:34,782 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:49:34,782 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:49:34,791 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:49:34,791 | INFO | ========== test_e2e Started ==========
+2026-07-06 10:49:34,791 | INFO | Launching chrome Browser
+2026-07-06 10:49:35,468 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:49:36,767 | INFO | Entering Username
+2026-07-06 10:49:36,855 | INFO | Entering Password
+2026-07-06 10:49:36,950 | INFO | Clicking on Login button
+2026-07-06 10:49:47,636 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:49:47,637 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:49:47,637 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:49:47,645 | INFO | TEST CASE STARTED : test_e2e
+2026-07-06 10:49:47,645 | INFO | ========== test_e2e Started ==========
+2026-07-06 10:49:47,645 | INFO | Launching chrome Browser
+2026-07-06 10:49:48,354 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:49:49,695 | INFO | Entering Username
+2026-07-06 10:49:49,781 | INFO | Entering Password
+2026-07-06 10:49:49,856 | INFO | Clicking on Login button
+2026-07-06 10:50:00,448 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:50:00,448 | INFO | TEST CASE FINISHED : test_e2e
+2026-07-06 10:50:00,449 | INFO | ----------------------------------------------------------------------
+2026-07-06 10:51:45,035 | INFO | ======================================================================
+2026-07-06 10:51:45,035 | INFO | TEST CASE STARTED : test_TC1[data0]
+2026-07-06 10:51:45,035 | INFO | ======================================================================
+2026-07-06 10:51:45,035 | INFO | ========== test_TC1[data0] Started ==========
+2026-07-06 10:51:45,035 | INFO | Launching chrome Browser
+2026-07-06 10:51:45,740 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:51:47,171 | INFO | Entering Username
+2026-07-06 10:51:47,265 | INFO | Entering Password
+2026-07-06 10:51:47,339 | INFO | Clicking on Login button
+2026-07-06 10:51:49,833 | INFO | ========== test_TC1[data0] Finished ==========
+2026-07-06 10:51:49,853 | INFO | ======================================================================
+2026-07-06 10:51:49,854 | INFO | TEST CASE STARTED : test_TC1[data1]
+2026-07-06 10:51:49,854 | INFO | ======================================================================
+2026-07-06 10:51:49,854 | INFO | ========== test_TC1[data1] Started ==========
+2026-07-06 10:51:49,854 | INFO | Launching chrome Browser
+2026-07-06 10:51:51,102 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:51:52,518 | INFO | Entering Username
+2026-07-06 10:51:52,612 | INFO | Entering Password
+2026-07-06 10:51:52,685 | INFO | Clicking on Login button
+2026-07-06 10:51:55,244 | INFO | ========== test_TC1[data1] Finished ==========
+2026-07-06 10:51:55,253 | INFO | ======================================================================
+2026-07-06 10:51:55,253 | INFO | TEST CASE STARTED : test_TC2[data0]
+2026-07-06 10:51:55,253 | INFO | ======================================================================
+2026-07-06 10:51:55,254 | INFO | ========== test_TC2[data0] Started ==========
+2026-07-06 10:51:55,254 | INFO | Launching chrome Browser
+2026-07-06 10:51:56,470 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:51:57,829 | INFO | Entering Username
+2026-07-06 10:51:57,915 | INFO | Entering Password
+2026-07-06 10:51:57,991 | INFO | Clicking on Login button
+2026-07-06 10:52:00,498 | INFO | ========== test_TC2[data0] Finished ==========
+2026-07-06 10:52:00,507 | INFO | ======================================================================
+2026-07-06 10:52:00,507 | INFO | TEST CASE STARTED : test_TC2[data1]
+2026-07-06 10:52:00,507 | INFO | ======================================================================
+2026-07-06 10:52:00,507 | INFO | ========== test_TC2[data1] Started ==========
+2026-07-06 10:52:00,507 | INFO | Launching chrome Browser
+2026-07-06 10:52:01,185 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:52:02,609 | INFO | Entering Username
+2026-07-06 10:52:02,696 | INFO | Entering Password
+2026-07-06 10:52:02,784 | INFO | Clicking on Login button
+2026-07-06 10:52:05,261 | INFO | ========== test_TC2[data1] Finished ==========
+2026-07-06 10:52:05,268 | INFO | ======================================================================
+2026-07-06 10:52:05,268 | INFO | TEST CASE STARTED : test_TC3[data0]
+2026-07-06 10:52:05,268 | INFO | ======================================================================
+2026-07-06 10:52:05,268 | INFO | ========== test_TC3[data0] Started ==========
+2026-07-06 10:52:05,268 | INFO | Launching chrome Browser
+2026-07-06 10:52:05,941 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:52:07,521 | INFO | Entering Username
+2026-07-06 10:52:07,614 | INFO | Entering Password
+2026-07-06 10:52:07,687 | INFO | Clicking on Login button
+2026-07-06 10:52:18,362 | INFO | ========== test_TC3[data0] Finished ==========
+2026-07-06 10:52:18,370 | INFO | ======================================================================
+2026-07-06 10:52:18,370 | INFO | TEST CASE STARTED : test_TC3[data1]
+2026-07-06 10:52:18,370 | INFO | ======================================================================
+2026-07-06 10:52:18,371 | INFO | ========== test_TC3[data1] Started ==========
+2026-07-06 10:52:18,371 | INFO | Launching chrome Browser
+2026-07-06 10:52:19,048 | INFO | Opening URL : https://rahulshettyacademy.com/loginpagePractise/
+2026-07-06 10:52:20,587 | INFO | Entering Username
+2026-07-06 10:52:20,672 | INFO | Entering Password
+2026-07-06 10:52:20,748 | INFO | Clicking on Login button
+2026-07-06 10:52:31,404 | INFO | ========== test_TC3[data1] Finished ==========
